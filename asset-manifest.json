@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/restaurant-site/static/css/main.1695bbc3.css",
+    "main.js": "/restaurant-site/static/js/main.7933ed4e.js",
+    "static/media/home-banner-image.png": "/restaurant-site/static/media/home-banner-image.fe8d8e35592bb05bcba8.png",
+    "static/media/about-background-image.png": "/restaurant-site/static/media/about-background-image.f4363b78dc0ad4ef34f1.png",
+    "static/media/choose-image.png": "/restaurant-site/static/media/choose-image.095ffee70bdfda7714b7.png",
+    "static/media/pick-meals-image.png": "/restaurant-site/static/media/pick-meals-image.8b60b59573396a09bc7d.png",
+    "static/media/delivery-image.png": "/restaurant-site/static/media/delivery-image.724ca2ad0eb15d0ff551.png",
+    "static/media/home-banner-background.png": "/restaurant-site/static/media/home-banner-background.8e5c6de255ebc923f600.png",
+    "static/media/about-background.png": "/restaurant-site/static/media/about-background.894e5452629654c87d54.png",
+    "static/media/Logo.svg": "/restaurant-site/static/media/Logo.06861ecebd47d7323630dc021f812ca1.svg",
+    "index.html": "/restaurant-site/index.html",
+    "main.1695bbc3.css.map": "/restaurant-site/static/css/main.1695bbc3.css.map",
+    "main.7933ed4e.js.map": "/restaurant-site/static/js/main.7933ed4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1695bbc3.css",
+    "static/js/main.7933ed4e.js"
+  ]
+}
